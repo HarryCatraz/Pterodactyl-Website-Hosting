@@ -4,9 +4,9 @@
         "version": "PTDL_v1",
         "update_url": null
     },
-    "exported_at": "2022-04-26T14:37:00+00:00",
+    "exported_at": "2022-02-15T21:19:52+02:00",
     "name": "Nginx",
-    "author": "Harry Catraz",
+    "author": "info@finniedj.nl",
     "description": "An Nginx egg to host any Website",
     "features": null,
     "images": [
